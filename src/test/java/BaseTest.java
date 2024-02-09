@@ -1,15 +1,7 @@
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
-
 import org.junit.AfterClass;
-import org.junit.Assert;
 import org.junit.BeforeClass;
-import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
-import java.time.Duration;
 
 // This is a typical set up of testing frameworks in which shared test logic is put in a base class
 // so it can be inherited of other tests

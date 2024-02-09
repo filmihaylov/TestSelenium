@@ -1,10 +1,7 @@
-import java.time.Duration;
-import java.util.concurrent.TimeUnit;
-
 import org.junit.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.firefox.FirefoxDriver;
+
 
 // If we inherit from the base class the driver and BeforeClass and AfterClass will be run
 // This is our simple test that will check a login screen
